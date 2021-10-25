@@ -47,4 +47,4 @@
 
   
   
-  ![Snake animation](https://github.com/LuffyNoTime/LuffyNoTime/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuffyNoTime/rafaballerini/blob/output/github-contribution-grid-snake.svg)
