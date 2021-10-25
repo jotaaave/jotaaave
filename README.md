@@ -45,3 +45,6 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuffyNoTime)](https://github.com/LuffyNoTime/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuffyNoTime&layout=compact)](https://github.com/LuffyNoTime/github-readme-stats)
 
+  
+  
+  ![Snake animation](https://github.com/LuffyNoTime/LuffyNoTime/blob/output/github-contribution-grid-snake.svg)
