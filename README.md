@@ -21,7 +21,7 @@
 
   * <strong>Animes</strong>
 
-  <img src="https://i.imgur.com/7f9xaXq.gif" width="60px">
+  <img src="https://i.imgur.com/7f9xaXq.gif" width="60px" >
   
   * <strong>Jogos</strong>
 
