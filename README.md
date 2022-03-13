@@ -4,17 +4,34 @@
 
 <div> 
   <p>
-   🥇 Chamo-me João Victor. Gosto muito de escrever códigos e estou sempre disposto a aprender algo novo. Adoro fazer amigos novos e conhecer pessoas, interagir, conversar. Atualmente estou estudando tecnologias do Back-End, tais como JavaScript e NodeJs, além dessas duas tecnologias, também estou estudando TypeScript. Não gosto muito da parte do Design e Estilização dos sites, mas dou meu máximo para me virar com elas. E para finalizar, eu estudo programação a 1 ano.
+   🥇 Olá, muito prazer. Me chamo João Victor, e sou programador JavaScript. Atualmente estou estudando para me tornar um programador Full-Stack.
+  </p>
+  </br>
+  <p>
+    Gosto muito de escrever códigos, e me divirto fazendo isso. Estou sempre disposto a aprender algo novo e melhorar meus pontos fracos e fortes. Sou muito comprometido com meus projetos pessoais, e também gosto de mantê-los organizados. Sou bastante colaborativo com outras pessoas e gosto de ajudar no máximo que for possível. Não tenho muitos projetos grandes e extravagantes, mas estou estudando para poder dar o meu máximo neles.
   </p>
 </div>
 
-## Tecnologias que estou estudando
+## Minhas Tecnologias
 
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"></a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"></a>
   <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"></a>
+</div>
+
+## Libs
+
+<div>
   <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px"></a>
+</div>
+
+## O quê estou estudando
+
+<div>
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px"/></a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px">
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/></a>
+</a>
 </div>
 
 ## O quê eu gosto?
@@ -43,9 +60,10 @@
   <a href="https://github.com/LuffyNoTime" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://discord.gg/4WGMDUSn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuffyNoTime)](https://github.com/LuffyNoTime/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuffyNoTime&layout=compact)](https://github.com/LuffyNoTime/github-readme-stats)
-
-  
+ <div>
+  <a href="https://github.com/LuffyNoTime">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuffyNoTime&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuffyNoTime&layout=compact&langs_count=7"/>
+</div>
   
   ![Snake animation](https://github.com/LuffyNoTime/LuffyNoTime/blob/output/github-contribution-grid-snake.svg)
