@@ -4,11 +4,15 @@
 
 <div> 
   <p>
-   🥇 Olá, muito prazer. Me chamo João Victor, e sou programador JavaScript. Atualmente estou estudando para me tornar um programador Full-Stack.
+   🥇 Olá, muito prazer. Me chamo João Victor, e sou programador Full-Stack atualmente em constante aprendizado.
   </p>
   </br>
   <p>
-    Gosto muito de escrever códigos, e me divirto fazendo isso. Estou sempre disposto a aprender algo novo e melhorar meus pontos fracos e fortes. Sou muito comprometido com meus projetos pessoais, e também gosto de mantê-los organizados. Sou bastante colaborativo com outras pessoas e gosto de ajudar no máximo que for possível. Não tenho muitos projetos grandes e extravagantes, mas estou estudando para poder dar o meu máximo neles.
+    Resolvi entrar para está área da profissão, pois, sempre tive um grande apresso pela parte da criação de aplicações como um todo, sou muito apaixonado por está área do Desenvolvimento. Escrever códigos de programação é algo que me além de me trazer um grande prazer, também me deixa constantemente alegre fazendo.
+    Estou sempre disposto a aprender coisas novas, e também sempre tento por minhas ideias em prática. Gosto de ser colaborativo em trabalhos em equipe, sempre fazendo minha parte e tentando ajudar os outros membros do projeto.
+    Me mantendo sempre em constante aprendizado e conseguindo contribuir para meus projetos e ajudar outras pessoas dentro da área. Atualmente me mantenho dentro da área Web, atuando como Full-Stack, Utilizando JavaScript, HTML, CSS e os Frameworks do JavaScript, como Node, TypeScript.
+    Atualmente estou melhorando minhas habilidades com TypeScript para posteriormente aprender React e NextJs.
+    Durante meu tempo livre, eu costumo tomar café e ler um bom livro, ou até mesmo escutar uma música enquanto jogo algo para descansar a mente. Na maior parte do tempo, estou colocando meus projetos pessoais em dia para melhorar o meu aprendizado e me manter atualizado.
   </p>
 </div>
 
@@ -16,49 +20,15 @@
 
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"></a>
 </div>
-
-## Libs
-
-<div>
-  <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px"></a>
-</div>
-
-## O quê estou estudando
-
-<div>
-    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px"/></a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px">
-    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/></a>
-</a>
-</div>
-
-## O quê eu gosto?
-
-  * <strong>Animes</strong>
-
-  <img src="https://i.imgur.com/7f9xaXq.gif" width="60px" >
-  
-  * <strong>Jogos</strong>
-
-  <img src="https://i.imgur.com/luoF5ao.gif" width="60px">
-
-  * <strong>Programação</strong>
-
-
-  <img src="https://i.imgur.com/i66VsAd.gif" width="60px">
-
-  * <strong>Series/Filmes</strong>
-
-  <img src="https://i.imgur.com/jO6nxiU.gif" width="60px">
   
   ## Minhas Redes Sociais
 
   <a href="https://twitter.com/luffyinhoUwY" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/joao._.victor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/LuffyNoTime" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.gg/4WGMDUSn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/jotaaave" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
  <div>
   <a href="https://github.com/LuffyNoTime">
