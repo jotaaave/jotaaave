@@ -32,8 +32,8 @@
   
  <div>
   <a href="https://github.com/LuffyNoTime">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuffyNoTime&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuffyNoTime&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotaaave&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaave&layout=compact&langs_count=7"/>
 </div>
   
-  ![Snake animation](https://github.com/LuffyNoTime/LuffyNoTime/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jotaaave/jotaaave/blob/output/github-contribution-grid-snake.svg)
