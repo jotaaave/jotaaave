@@ -4,15 +4,13 @@
 
 <div> 
   <p>
-   🥇 Olá, muito prazer. Me chamo João Victor, e sou programador Full-Stack atualmente em constante aprendizado.
-  </p>
-  </br>
-  <p>
-    Resolvi entrar para está área da profissão, pois, sempre tive um grande apresso pela parte da criação de aplicações como um todo, sou muito apaixonado por está área do Desenvolvimento. Escrever códigos de programação é algo que me além de me trazer um grande prazer, também me deixa constantemente alegre fazendo.
-    Estou sempre disposto a aprender coisas novas, e também sempre tento por minhas ideias em prática. Gosto de ser colaborativo em trabalhos em equipe, sempre fazendo minha parte e tentando ajudar os outros membros do projeto.
-    Me mantendo sempre em constante aprendizado e conseguindo contribuir para meus projetos e ajudar outras pessoas dentro da área. Atualmente me mantenho dentro da área Web, atuando como Full-Stack, Utilizando JavaScript, HTML, CSS e os Frameworks do JavaScript, como Node, TypeScript.
-    Atualmente estou melhorando minhas habilidades com TypeScript para posteriormente aprender React e NextJs.
-    Durante meu tempo livre, eu costumo tomar café e ler um bom livro, ou até mesmo escutar uma música enquanto jogo algo para descansar a mente. Na maior parte do tempo, estou colocando meus projetos pessoais em dia para melhorar o meu aprendizado e me manter atualizado.
+   🥇 Olá, muito prazer. 
+  Me chamo João Victor, e sou programador Full-Stack no Desenvolvimento Web.
+  Falando um pouco sobre mim, sou um desbravador na área da programação, estou sempre buscando novos conhecimentos e me atualizando na área em que estou, além de buscar outros
+conceitos na área da programação como um todo, sou bom com trabalhos em equipe e busco sempre contribuir e ajudar a todos para passar e receber conhecimento.
+  Tenho muito desejo em adquirir experiências e novos aprendizados para poder evoluir dentro de todo esse grande mundo da programação.
+  Me considero uma pessoa bastante criativa e que está sempre buscando uma solução para os problemas, assim como todo código requer.
+  Atualmente venho obtendo experiência com TypeScript, React e NextJs fora os padrãoes de projetos.
   </p>
 </div>
 
