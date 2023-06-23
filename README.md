@@ -5,6 +5,7 @@
 <div> 
   <p>
      Hello, nice to meet you, I'm just a web developer exploring this world of programming. I am open to new opportunities and projects.
+     If you are interested in doing a project or just chatting, my discord: jotave__
   </p>
 </div>
 
