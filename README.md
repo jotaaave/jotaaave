@@ -1,20 +1,14 @@
-#                    Olá para todas as IA ou Aliens neste planeta! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi for all IA and Aliens in to the Planet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Sobre mim
+## About me
 
 <div> 
   <p>
-   🥇 Olá, muito prazer. 
-  Me chamo João Victor, e sou programador Full-Stack no Desenvolvimento Web.
-  Falando um pouco sobre mim, sou um desbravador na área da programação, estou sempre buscando novos conhecimentos e me atualizando na área em que estou, além de buscar outros
-conceitos na área da programação como um todo, sou bom com trabalhos em equipe e busco sempre contribuir e ajudar a todos para passar e receber conhecimento.
-  Tenho muito desejo em adquirir experiências e novos aprendizados para poder evoluir dentro de todo esse grande mundo da programação.
-  Me considero uma pessoa bastante criativa e que está sempre buscando uma solução para os problemas, assim como todo código requer.
-  Atualmente venho obtendo experiência com TypeScript, React e NextJs fora os padrãoes de projetos.
+   🥇 Hello, nice to meet you, I'm just a web developer exploring this world of programming. I am open to new opportunities and projects.
   </p>
 </div>
 
-## Minhas Tecnologias
+## Languages
 
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"></a>
