@@ -5,7 +5,7 @@
 <div> 
   <p>
      Hello, nice to meet you, I'm just a web developer exploring this world of programming. I am open to new opportunities and projects.
-     If you are interested in doing a project or just chatting, my discord: jotave__
+     If you are interested in doing a project or just chatting.
   </p>
 </div>
 
@@ -15,10 +15,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"></a>
     <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"></a>
   <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"></a>
+  <a><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" width="50px"></a>
 </div>
   
 ## Contacts
-  <a href="https://www.instagram.com/joao._.victor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/victorxyzz__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/jotaaave" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
  <div>
