@@ -14,8 +14,8 @@
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"></a>
     <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"></a>
+  <a href="https://pt-br.legacy.reactjs.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" width="50px"></a>
   <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"></a>
-  <a><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" width="50px"></a>
 </div>
   
 ## Contacts
