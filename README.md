@@ -10,7 +10,7 @@
 
 ## </> Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,electron,express,godot,jquery,jest,lua,nextjs,nodejs,react,ts,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,electron,express,godot,jquery,jest,lua,nextjs,nodejs,react,ts,discordjs,cypress)](https://skillicons.dev)
 
 ## 🔧 Tools
 
