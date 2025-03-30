@@ -30,8 +30,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](discord.com) <h1>@jotadaaly</h1>
   
- <div>
-  <a href="https://github.com/LuffyNoTime">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotaaave&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaave&layout=compact&langs_count=7"/>
-</div>
+![Jotave GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaaave&show_icons=true&theme=radical)
