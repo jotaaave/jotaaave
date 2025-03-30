@@ -16,8 +16,9 @@
     <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"></a>
   <a href="https://pt-br.legacy.reactjs.org/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" width="50px"></a>
   <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"></a>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 ## Contacts
   <a href="https://www.instagram.com/victorxyzz__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
