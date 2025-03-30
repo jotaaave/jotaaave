@@ -11,11 +11,19 @@
 
 ## </> Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,electron,express,godot,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,electron,express,godot,jquery,jest,lua,nextjs,nodejs,react,ts)](https://skillicons.dev)
 
 ## 🔧 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,linux,notion,replit)](https://skillicons.dev)
+
+## 🏛️ Database
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,strapi,postgres,sqlite)](https://skillicons.dev)
+
+## 💅 Visual
+
+[![My Skills](https://skillicons.dev/icons?i=sass,styledcomponents,tailwind)](https://skillicons.dev)
   
 ## Contacts
   <a href="https://www.instagram.com/victorxyzz__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
