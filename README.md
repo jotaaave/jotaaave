@@ -28,7 +28,7 @@
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/victorcsbrasil/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/victorxyzz__/)
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](discord.com) ### @jotadaaly
+[![My Skills](https://skillicons.dev/icons?i=discord)](discord.com) <h1>@jotadaaly</h1>
   
  <div>
   <a href="https://github.com/LuffyNoTime">
