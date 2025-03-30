@@ -34,3 +34,5 @@
   
 ![Jotave GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaaave&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaave)](https://github.com/jotaaave/github-readme-stats)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&animation=fadeIn&reversal=false&section=footer"/>
