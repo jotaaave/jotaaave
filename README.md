@@ -30,4 +30,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](discord.com) <h1>@jotadaaly</h1>
   
-![Jotave GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaaave&show_icons=true&theme=radical)
+![Jotave GitHub stats](https://github-readme-stats.vercel.app/api?username=jotaaave&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaave)](https://github.com/jotaaave/github-readme-stats)
