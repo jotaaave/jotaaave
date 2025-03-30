@@ -9,7 +9,7 @@
   </p>
 </div>
 
-## Languages
+## </> Skills
 
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"></a>
