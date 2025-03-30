@@ -18,7 +18,7 @@
 
 ## 🏛️ Database
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,strapi,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
 
 ## 💅 Visual
 
