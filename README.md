@@ -1,11 +1,10 @@
-# Hi for all IA and Aliens in to the Planet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## About me
+## Me!
 
 <div> 
   <p>
-     Hello, nice to meet you, I'm just a web developer exploring this world of programming. I am open to new opportunities and projects.
-     If you are interested in doing a project or just chatting.
+      Just a simple kid who loves and bases his whole life on programming! Future is the code
   </p>
 </div>
 
@@ -28,6 +27,7 @@
 ## Contacts
   <a href="https://www.instagram.com/victorxyzz__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/jotaaave" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/victorcsbrasil/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
   
  <div>
   <a href="https://github.com/LuffyNoTime">
