@@ -16,7 +16,7 @@
 
 ## 🔧 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,linux,notion,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,linux,notion,replit,postman,figma,cloudflare,aws)](https://skillicons.dev)
 
 ## 🏛️ Database
 
